@@ -1,7 +1,7 @@
 
-# Gitlet - A Java-based Distributed Version Control System
+# Gitlet - A Java-based Version Control System
 
-Gitlet is a lightweight, Java-based distributed version control system (DVCS) inspired by Git. It mimics some of the core functionalities of Git, such as committing files, branching, merging, and restoring previous versions of files. Gitlet is designed to be simple and efficient, making it an excellent tool for learning how version control systems work under the hood.
+Gitlet is a lightweight, Java-based version control system  inspired by Git. It mimics some of the core functionalities of Git, such as committing files, branching, merging, and restoring previous versions of files. Gitlet is designed to be simple and efficient, making it an excellent tool for learning how version control systems work under the hood.
 
 ---
 
